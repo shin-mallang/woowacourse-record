@@ -4,7 +4,19 @@
 
 <br>
 
-## 🧡 Precourse
+## 🧡 Level 1
+| Project | Period | Repository | PR | 회고 & 정리 | 
+| --- | --- | --- | --- | --- |
+|자동차 경주 게임 1단계|`2023-02-07` ~ `2023-02-11`|[repository](https://github.com/shin-mallang/java-racingcar)|[PR](https://github.com/woowacourse/java-racingcar/pull/476)|[회고 & 정리](https://ttl-blog.tistory.com/1189)|
+
+
+<br>
+
+
+
+<br>
+
+## ❤ Precourse
 | Project | Period | Repository | PR |
 | --- | --- | --- | --- |
 |점심 메뉴 추천(최종 미션)|`2022-12-17` ~ `2022-12-17`|[repository](https://github.com/shin-mallang/java-menu)|[PR](https://github.com/woowacourse-precourse/java-menu/pull/111)|
