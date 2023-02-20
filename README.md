@@ -7,7 +7,7 @@
 ## 🧡 Level 1
 | Project | Period | Repository | PR | 회고 & 정리 | 
 | --- | --- | --- | --- | --- |
-|사다리 타기 2단계|`2023-02-18` ~ `2023-02-27`|[repository](https://github.com/shin-mallang/java-ladder/tree/step1)|[PR](https://github.com/woowacourse/java-ladder/pull/148)|X|
+|사다리 타기 2단계|`2023-02-18` ~ `2023-02-27`|[repository](https://github.com/shin-mallang/java-ladder/tree/step2)|[PR](https://github.com/woowacourse/java-ladder/pull/148)|X|
 |사다리 타기 1단계|`2023-02-14` ~ `2023-02-18`|[repository](https://github.com/shin-mallang/java-ladder/tree/step1)|[PR](https://github.com/woowacourse/java-ladder/pull/87)|[회고 & 정리](https://ttl-blog.tistory.com/1198)|
 |자동차 경주 게임 2단계|`2023-02-11` ~ `2023-02-13`|[repository](https://github.com/shin-mallang/java-racingcar/tree/mallang/step2)|[PR](https://github.com/woowacourse/java-racingcar/pull/563)|[회고 & 정리](https://ttl-blog.tistory.com/1189)|
 |자동차 경주 게임 1단계|`2023-02-07` ~ `2023-02-11`|[repository](https://github.com/shin-mallang/java-racingcar/tree/mallang/step1)|[PR](https://github.com/woowacourse/java-racingcar/pull/476)|[회고 & 정리](https://ttl-blog.tistory.com/1189)|
