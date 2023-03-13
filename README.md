@@ -7,6 +7,8 @@
 ## 🧡 Level 1
 | Project | Period | Repository | PR | 회고 & 정리 | 
 | --- | --- | --- | --- | --- |
+|블랙잭 2단계|`2023-03-07` ~ `2023-03-13`|[repository](https://github.com/shin-mallang/java-blackjack/tree/step2)|[PR](https://github.com/woowacourse/java-blackjack/pull/485)|[회고 & 정리](https://ttl-blog.tistory.com/1226)|
+|블랙잭 1단계|`2023-02-28` ~ `2023-03-07`|[repository](https://github.com/shin-mallang/java-blackjack/tree/step1)|[PR](https://github.com/woowacourse/java-blackjack/pull/392)|[회고 & 정리](https://ttl-blog.tistory.com/1226)|
 |사다리 타기 2단계|`2023-02-19` ~ `2023-02-27`|[repository](https://github.com/shin-mallang/java-ladder/tree/step2)|[PR](https://github.com/woowacourse/java-ladder/pull/148)|[회고 & 정리](https://ttl-blog.tistory.com/1204)|
 |사다리 타기 1단계|`2023-02-14` ~ `2023-02-18`|[repository](https://github.com/shin-mallang/java-ladder/tree/step1)|[PR](https://github.com/woowacourse/java-ladder/pull/87)|[회고 & 정리](https://ttl-blog.tistory.com/1198)|
 |자동차 경주 게임 2단계|`2023-02-11` ~ `2023-02-13`|[repository](https://github.com/shin-mallang/java-racingcar/tree/mallang/step2)|[PR](https://github.com/woowacourse/java-racingcar/pull/563)|[회고 & 정리](https://ttl-blog.tistory.com/1189)|
